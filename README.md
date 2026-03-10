@@ -69,5 +69,4 @@ La costante di reattività $\gamma$ (es. 0.3) è ottimizzata per bilanciare late
 *   `CalcoloAngolare.java`: Modello matematico per la conversione pixel-to-degree.
 *   `FiltroPassaBasso.java`: Stabilizzazione vettoriale del movimento spaziale.
 
-## 📝 Licenza
-[Inserire qui la licenza desiderata o indicazione di codice coperto da Brevetto]
+## 📝 Licenza VisionApps srl 2026
